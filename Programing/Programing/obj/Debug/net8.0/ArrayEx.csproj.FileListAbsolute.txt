@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\Programing\Programing\obj\Debug\net8.0\ArrayEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Programing\Programing\obj\Debug\net8.0\ArrayEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Programing\Programing\obj\Debug\net8.0\ArrayEx.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Programing\Programing\obj\Debug\net8.0\ArrayEx.csproj.CoreCompileInputs.cache
