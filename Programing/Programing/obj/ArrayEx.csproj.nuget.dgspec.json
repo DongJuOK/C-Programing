@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\Programing\\Programing\\ArrayEx.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\ArrayEx.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\Programing\\Programing\\ArrayEx.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\ArrayEx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Programing\\Programing\\ArrayEx.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\ArrayEx.csproj",
         "projectName": "ArrayEx",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\Programing\\Programing\\ArrayEx.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\ArrayEx.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\Programing\\Programing\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

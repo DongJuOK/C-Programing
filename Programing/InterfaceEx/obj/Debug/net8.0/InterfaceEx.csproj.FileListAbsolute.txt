@@ -12,3 +12,11 @@ C:\Users\Administrator\Desktop\Programing\InterfaceEx\obj\Debug\net8.0\refint\In
 C:\Users\Administrator\Desktop\Programing\InterfaceEx\obj\Debug\net8.0\InterfaceEx.pdb
 C:\Users\Administrator\Desktop\Programing\InterfaceEx\obj\Debug\net8.0\InterfaceEx.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Programing\InterfaceEx\obj\Debug\net8.0\ref\InterfaceEx.dll
+C:\Users\Administrator\Desktop\C-Programing\Programing\InterfaceEx\obj\Debug\net8.0\InterfaceEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C-Programing\Programing\InterfaceEx\obj\Debug\net8.0\InterfaceEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\InterfaceEx\obj\Debug\net8.0\InterfaceEx.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C-Programing\Programing\InterfaceEx\obj\Debug\net8.0\InterfaceEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\InterfaceEx\obj\Debug\net8.0\InterfaceEx.sourcelink.json
+C:\Users\Administrator\Desktop\C-Programing\Programing\InterfaceEx\obj\Debug\net8.0\InterfaceEx.dll
+C:\Users\Administrator\Desktop\C-Programing\Programing\InterfaceEx\obj\Debug\net8.0\refint\InterfaceEx.dll
+C:\Users\Administrator\Desktop\C-Programing\Programing\InterfaceEx\obj\Debug\net8.0\InterfaceEx.pdb

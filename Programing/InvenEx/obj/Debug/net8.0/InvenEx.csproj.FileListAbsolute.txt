@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\bin\Debug\net8.0\InvenEx.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\bin\Debug\net8.0\InvenEx.deps.json
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\bin\Debug\net8.0\InvenEx.runtimeconfig.json
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\bin\Debug\net8.0\InvenEx.dll
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\bin\Debug\net8.0\InvenEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\obj\Debug\net8.0\InvenEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\obj\Debug\net8.0\InvenEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\obj\Debug\net8.0\InvenEx.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\obj\Debug\net8.0\InvenEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\obj\Debug\net8.0\InvenEx.sourcelink.json
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\obj\Debug\net8.0\InvenEx.dll
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\obj\Debug\net8.0\refint\InvenEx.dll
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\obj\Debug\net8.0\InvenEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\obj\Debug\net8.0\InvenEx.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\InvenEx\obj\Debug\net8.0\ref\InvenEx.dll
