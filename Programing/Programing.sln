@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvenEx", "InvenEx\InvenEx.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListEx", "ListEx\ListEx.csproj", "{7C01575D-CFFD-42A2-B2B9-E69BF415E2D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeEx", "PracticeEx\PracticeEx.csproj", "{213F0ACB-571D-448C-85AA-5884C3D05B78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7C01575D-CFFD-42A2-B2B9-E69BF415E2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C01575D-CFFD-42A2-B2B9-E69BF415E2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C01575D-CFFD-42A2-B2B9-E69BF415E2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213F0ACB-571D-448C-85AA-5884C3D05B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213F0ACB-571D-448C-85AA-5884C3D05B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213F0ACB-571D-448C-85AA-5884C3D05B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213F0ACB-571D-448C-85AA-5884C3D05B78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

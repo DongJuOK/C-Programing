@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C-Programing\Programing\PracticeEx\bin\Debug\PracticeEx.exe.config
+C:\Users\Administrator\Desktop\C-Programing\Programing\PracticeEx\bin\Debug\PracticeEx.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\PracticeEx\bin\Debug\PracticeEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\PracticeEx\obj\Debug\PracticeEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\PracticeEx\obj\Debug\PracticeEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\PracticeEx\obj\Debug\PracticeEx.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\PracticeEx\obj\Debug\PracticeEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\PracticeEx\obj\Debug\PracticeEx.exe.config

@@ -29,14 +29,15 @@ namespace InvenEx
     {
         public CashItem(string _name, int _price) : base(_name, _price)
         {
-        }
 
+        }
     }
 
     public class NormalItem : Item
     {
         public NormalItem(string _name, int _price) : base(_name, _price)
         {
+
         }
     }
 
@@ -44,6 +45,7 @@ namespace InvenEx
     {
         public PlayerPet(string _name, int _price) : base(_name, _price)
         {
+
         }
     }
 

@@ -56,7 +56,7 @@ namespace InvenEx
 
             if (_index < 0 || _index > arrayItem.Length)
             {
-                Console.WriteLine($"입력한 인데스값이 : {_index} 자동으로 들어갑니다.");
+                Console.WriteLine($"입력한 인덱스값이 : {_index} 자동으로 들어갑니다.");
                 AddItem(_item);
             }
             else
@@ -76,6 +76,7 @@ namespace InvenEx
         {
             arrayItem[selectNum] = null;
         }
+
         public void RemoveAllItem()
         {
             for (int i = 0; i < arrayItem.Length; i++)
@@ -84,7 +85,6 @@ namespace InvenEx
                     arrayItem[i] = null;
             }
         }
-
 
         public void ShowInven()
         {

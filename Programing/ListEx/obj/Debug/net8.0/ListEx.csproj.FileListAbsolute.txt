@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\bin\Debug\net8.0\ListEx.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\bin\Debug\net8.0\ListEx.deps.json
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\bin\Debug\net8.0\ListEx.runtimeconfig.json
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\bin\Debug\net8.0\ListEx.dll
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\bin\Debug\net8.0\ListEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\obj\Debug\net8.0\ListEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\obj\Debug\net8.0\ListEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\obj\Debug\net8.0\ListEx.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\obj\Debug\net8.0\ListEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\obj\Debug\net8.0\ListEx.sourcelink.json
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\obj\Debug\net8.0\ListEx.dll
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\obj\Debug\net8.0\refint\ListEx.dll
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\obj\Debug\net8.0\ListEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\obj\Debug\net8.0\ListEx.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\ListEx\obj\Debug\net8.0\ref\ListEx.dll

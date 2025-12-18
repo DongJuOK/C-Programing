@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{213F0ACB-571D-448C-85AA-5884C3D05B78}|PracticeEx\\PracticeEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\practiceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213F0ACB-571D-448C-85AA-5884C3D05B78}|PracticeEx\\PracticeEx.csproj|solutionrelative:practiceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C01575D-CFFD-42A2-B2B9-E69BF415E2D8}|ListEx\\ListEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\listex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C01575D-CFFD-42A2-B2B9-E69BF415E2D8}|ListEx\\ListEx.csproj|solutionrelative:listex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,26 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{69252E91-FA12-450A-9997-CDFCDB5D41EF}|InvenEx\\InvenEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\invenex\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69252E91-FA12-450A-9997-CDFCDB5D41EF}|InvenEx\\InvenEx.csproj|solutionrelative:invenex\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6667DB1-B962-4B65-8911-A5D270C0C444}|InterfaceEx\\InterfaceEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\interfaceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6667DB1-B962-4B65-8911-A5D270C0C444}|InterfaceEx\\InterfaceEx.csproj|solutionrelative:interfaceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1C650B-4962-47E5-A398-A1D74205EF36}|Programing\\ArrayEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\programing\\unitparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A1C650B-4962-47E5-A398-A1D74205EF36}|Programing\\ArrayEx.csproj|solutionrelative:programing\\unitparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1C650B-4962-47E5-A398-A1D74205EF36}|Programing\\ArrayEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\programing\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A1C650B-4962-47E5-A398-A1D74205EF36}|Programing\\ArrayEx.csproj|solutionrelative:programing\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1C650B-4962-47E5-A398-A1D74205EF36}|Programing\\ArrayEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\programing\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A1C650B-4962-47E5-A398-A1D74205EF36}|Programing\\ArrayEx.csproj|solutionrelative:programing\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1C650B-4962-47E5-A398-A1D74205EF36}|Programing\\ArrayEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\programing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A1C650B-4962-47E5-A398-A1D74205EF36}|Programing\\ArrayEx.csproj|solutionrelative:programing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,106 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\PracticeEx\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeEx\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\PracticeEx\\Program.cs",
+              "RelativeToolTip": "PracticeEx\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T01:28:03.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Item.cs",
               "RelativeDocumentMoniker": "InvenEx\\Item.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Item.cs",
               "RelativeToolTip": "InvenEx\\Item.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAuwDEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T03:27:49.841Z",
+              "WhenOpened": "2025-12-18T00:08:26.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\ListEx\\Program.cs",
-              "RelativeDocumentMoniker": "ListEx\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\ListEx\\Program.cs",
-              "RelativeToolTip": "ListEx\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Program.cs",
+              "RelativeDocumentMoniker": "InvenEx\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Program.cs",
+              "RelativeToolTip": "InvenEx\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T03:19:09.722Z",
+              "WhenOpened": "2025-12-18T00:07:21.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Program.cs",
-              "RelativeDocumentMoniker": "InvenEx\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Program.cs",
-              "RelativeToolTip": "InvenEx\\Program.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAUwL4AAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\ListEx\\Program.cs",
+              "RelativeDocumentMoniker": "ListEx\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\ListEx\\Program.cs",
+              "RelativeToolTip": "ListEx\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T03:29:42.452Z",
+              "WhenOpened": "2025-12-17T03:19:09.722Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InterfaceEx\\Program.cs",
-              "RelativeDocumentMoniker": "InterfaceEx\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InterfaceEx\\Program.cs",
-              "RelativeToolTip": "InterfaceEx\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T02:46:37.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Monster.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\Monster.cs",
-              "RelativeDocumentMoniker": "Programing\\Monster.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\Monster.cs",
-              "RelativeToolTip": "Programing\\Monster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T01:17:59.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\Player.cs",
-              "RelativeDocumentMoniker": "Programing\\Player.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\Player.cs",
-              "RelativeToolTip": "Programing\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T01:17:51.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitParent.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\UnitParent.cs",
-              "RelativeDocumentMoniker": "Programing\\UnitParent.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\UnitParent.cs",
-              "RelativeToolTip": "Programing\\UnitParent.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T01:17:41.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\Program.cs",
-              "RelativeDocumentMoniker": "Programing\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Programing\\Program.cs",
-              "RelativeToolTip": "Programing\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwCkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T23:46:58.813Z"
             }
           ]
         }
