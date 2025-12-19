@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C-Programing\Programing\StringEx\bin\Debug\StringEx.exe.config
+C:\Users\Administrator\Desktop\C-Programing\Programing\StringEx\bin\Debug\StringEx.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\StringEx\bin\Debug\StringEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\StringEx\obj\Debug\StringEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\StringEx\obj\Debug\StringEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\StringEx\obj\Debug\StringEx.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\StringEx\obj\Debug\StringEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\StringEx\obj\Debug\StringEx.exe.config

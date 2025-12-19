@@ -7,85 +7,89 @@ using System.Threading.Tasks;
 
 namespace PracticeEx
 {
+    class Monster
+    {
+        int hp;
+
+        public int Hp { get { return hp; } }
+    }
+
     internal class Program
     {
         static void Main(string[] args)
         {
-            int[] arrayA = new int[10];
+            // 가장 기초 알고리즘
+
+            // 제일 큰애, 제일 작은애, 같은애 위치, 배열값 복사하기, 배열 뒤집기
 
             // 0 ~ 9 까지 숫자가 랜덤하게 배열에 들어가 있어야 한다.
 
-            Random rand = new Random();
+            // 숫자를 오름차순 0 ~ 9, 내림차순 9 ~ 0
+
+            // 아래 두 배열 합치기
+
+            int[] arrayA = new int[10];
+            int[] arrayB = new int[10];
+
+            int[] arrayResult = new int[arrayA.Length + arrayB.Length];
 
             for (int i = 0; i < arrayA.Length; i++)
             {
-                arrayA[i] = rand.Next(i, arrayA.Length);
+                arrayA[i] = i;
+                arrayB[i] = i + 10;
             }
 
+            // Random rnd = new Random();
+            // 
+            // for (int i = 0; i < arrayA.Length; i++)
+            // {
+            //     int _value = rnd.Next(0, arrayA.Length);
+            //     int _temp = arrayA[i];
+            //     arrayA[i] = arrayA[_value];
+            //     arrayA[_value] = _temp;
+            // }
+
             for (int i = 0; i < arrayA.Length; i++)
             {
-                Console.Write(arrayA[i] + " ");
+                arrayResult[i] = arrayA[i];
+            }
+
+            for (int i = 0; i < arrayB.Length; i++)
+            {
+                arrayResult[arrayA.Length + i] = arrayB[i];
+            }
+
+            for (int i = 0; i < arrayResult.Length; i++)
+            {
+                Console.Write(arrayResult[i] + " ");
             }
 
             Console.WriteLine();
 
-            for (int i = 0; i < arrayA.Length; i++)
+            int mid_size = arrayResult.Length / 2;
+
+            int[] arrayC = new int[mid_size];
+            int[] arrayD = new int[mid_size];
+
+            for (int i = 0; i < mid_size; i++)
             {
-                int temp = arrayA[i];
-                int index = i;
-
-                for (int j = i + 1; j < arrayA.Length; j++)
-                {
-                    if (temp < arrayA[j])
-                    {
-                        temp = arrayA[j];
-                        index = j;
-                    }
-                }
-
-                temp = arrayA[i];
-                arrayA[i] = arrayA[index];
-                arrayA[index] = temp;
+                arrayC[i] = arrayResult[i];
+                arrayD[i] = arrayResult[mid_size + i];
             }
 
-            for (int i = 0; i < arrayA.Length; i++)
+            for (int i = 0; i < mid_size; i++)
             {
-                Console.Write(arrayA[i] + " ");
+                Console.Write(arrayC[i] + " ");
             }
 
             Console.WriteLine();
 
-            for (int i = 0; i < arrayA.Length; i++)
+            for (int i = 0; i < mid_size; i++)
             {
-                int temp = arrayA[i];
-                int index = i;
-
-                for (int j = i + 1; j < arrayA.Length; j++)
-                {
-                    if (temp > arrayA[j])
-                    {
-                        temp = arrayA[j];
-                        index = j;
-                    }
-                }
-
-                temp = arrayA[index];
-                arrayA[index] = arrayA[i];
-                arrayA[i] = temp;
+                Console.Write(arrayD[i] + " ");
             }
-
-            for (int i = 0; i < arrayA.Length; i++)
-            {
-                Console.Write(arrayA[i] + " ");
-            }
-
-            // 배열의 내용이 바뀌더라도 가능해야 합니다.
-            // 배열에서 가장 큰 숫자를 max 넣어주세요.
-            // 배열에서 가장 작은 숫자를 min 넣어주세요.
 
             Console.ReadKey();
-
-            int _dropGold = 100; // 10 ~ 200
         }
     }
 }

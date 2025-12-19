@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListEx", "ListEx\ListEx.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeEx", "PracticeEx\PracticeEx.csproj", "{213F0ACB-571D-448C-85AA-5884C3D05B78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEx", "StringEx\StringEx.csproj", "{678158A6-6994-4453-8353-FD34CB06D05C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseballEx", "BaseballEx\BaseballEx.csproj", "{AD9F63B2-2D05-4314-98CE-2C13836B0046}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{213F0ACB-571D-448C-85AA-5884C3D05B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{213F0ACB-571D-448C-85AA-5884C3D05B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{213F0ACB-571D-448C-85AA-5884C3D05B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678158A6-6994-4453-8353-FD34CB06D05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678158A6-6994-4453-8353-FD34CB06D05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678158A6-6994-4453-8353-FD34CB06D05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678158A6-6994-4453-8353-FD34CB06D05C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9F63B2-2D05-4314-98CE-2C13836B0046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9F63B2-2D05-4314-98CE-2C13836B0046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9F63B2-2D05-4314-98CE-2C13836B0046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9F63B2-2D05-4314-98CE-2C13836B0046}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

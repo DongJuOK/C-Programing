@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C-Programing\Programing\BaseballEx\bin\Debug\BaseballEx.exe.config
+C:\Users\Administrator\Desktop\C-Programing\Programing\BaseballEx\bin\Debug\BaseballEx.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\BaseballEx\bin\Debug\BaseballEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\BaseballEx\obj\Debug\BaseballEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\BaseballEx\obj\Debug\BaseballEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\BaseballEx\obj\Debug\BaseballEx.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\BaseballEx\obj\Debug\BaseballEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\BaseballEx\obj\Debug\BaseballEx.exe.config
