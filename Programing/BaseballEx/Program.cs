@@ -2,7 +2,30 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
+
+// 숫자 야구게임 만들기
+
+// 룰 : 플레이어는 중복되지 않는 숫자 3개를 입력한다.
+//      중복되는 숫자거나 숫자 3개가 아니면 아니라고 알려준다.
+//      숫자 3개 입력시 비교를 하여 스트라이크와 볼을 체크해준다.
+
+// 1. 처음에 화면에 야구게임이라고 출력해준다.
+
+// 2. 컴퓨터가 중복되지 않는 랜덤한 숫자 3개 정하기
+
+// 3. 플레이어가 뭐든 입력이 가능하게
+//    - 문자열의 길이가 3인가?
+//    - 입력된 문자들이 숫자인가?
+//    - 입력된 숫자들이 중복되지 않는가?
+
+// 4. 내가 올바르게 입력한 숫자가 컴퓨터가 처음 정한 숫자가 맞는지 비교를 한다.
+//    - 숫자와 위치가 같은 경우 - S
+//    - 숫자는 맞는데 위치가 다른 경우 - B
+
+// 5. 몇번만에 맞췄는지에 대한 결과와 끝난다는 결과창이 나와야한다.
+//    - 다시 숫자를 집어서 다시 게임이 되어야한다.
 
 namespace BaseballEx
 {
@@ -10,124 +33,133 @@ namespace BaseballEx
     {
         static void ShowStartScreen()
         {
-            Console.WriteLine("야구게임에 오신것을 환영합니다.");
-            Console.WriteLine("※룰 : 중복되지 않은 숫자 3개를 입력해주세요.");
+            Console.WriteLine("숫자 야구게임에 오신것을 환영합니다.");
+            Console.WriteLine("중복되자 않는 숫자 3개를 입력해주세요.");
         }
 
-        static int[] GetNumber()
+        static int[] GetRandom()
         {
             Random rand = new Random();
 
-            int[] arrayRandNum = new int[10];
+            int[] arrayRand = new int[10];
 
-            for (int i = 0; i < arrayRandNum.Length; i++)
+            for (int i = 0; i < arrayRand.Length; i++)
             {
-                arrayRandNum[i] = i;
+                arrayRand[i] = i;
             }
 
-            for (int i = 0; i < arrayRandNum.Length; i++)
+            for (int i = 0; i < arrayRand.Length; i++)
             {
-                int result = rand.Next(0, 10);
+                int randResult = rand.Next(i, arrayRand.Length);
 
-                int temp = arrayRandNum[i];
-
-                arrayRandNum[i] = arrayRandNum[result];
-
-                arrayRandNum[result] = temp;
+                int temp = arrayRand[i];
+                arrayRand[i] = arrayRand[randResult];
+                arrayRand[randResult] = temp;
             }
 
-            return arrayRandNum;
+            int[] arrayResult = new int[3];
+
+            for (int i = 0; i < arrayResult.Length; i++)
+            {
+                arrayResult[i] = arrayRand[i];
+            }
+
+            return arrayResult;
         }
 
-        static bool IsNumberCheck(string str)
+        static bool GetCheckNumber(string str)
         {
+            bool _isLength = true;
+            bool _isNumber = true;
+            bool _isOverlap = true;
+
+            // 문자열의 길이가 3이다
             if (str.Length != 3)
             {
-                Console.WriteLine("입력하신 문자의 길이가 3개가 아닙니다.");
-            }
-            else
-            {
-                bool _isNum = true;
-                bool _isDuplication = true;
-                for (int i = 0; i < 3; i++)
-                {
-                    char temp = str[i];
-                    if (48 <= temp && temp <= 57)
-                    {
-                        for (int a = 0; a < str.Length; a++)
-                        {
-                            for (int b = a + 1; b < str.Length; b++)
-                            {
-                                if (str[a] == str[b])
-                                {
-                                    _isDuplication = false;
-                                }
-                                else
-                                {
+                _isLength = false;
 
-                                }
-                            }
-                        }
-                    }
-                    else
-                    {
-                        _isNum = false;
-                    }
-                }
-
-                if (_isNum)
+                if (str.Length < 3)
                 {
-                    if (_isDuplication)
-                    {
-                        return true;
-                    }
-                    else
-                    {
-                        Console.WriteLine("중복된 숫자가 있습니다.");
-                    }
+                    Console.WriteLine("문자열의 길이가 3보다 작습니다.");
                 }
                 else
                 {
-                    Console.WriteLine("입력받은 값 중에 문자가 있습니다.");
+                    Console.WriteLine("문자열의 길이가 3을 넘었습니다.");
                 }
             }
 
-            return false;
+            if (_isLength)
+            {
+                for (int i = 0; i < str.Length; i++)
+                {
+                    char tempC = str[i];
+
+                    if (tempC < 48 || tempC > 57)
+                    {
+                        _isNumber = false;
+                    }
+                }
+            }
+
+            if (_isNumber && _isLength)
+            {
+                for (int i = 0; i < str.Length; i++)
+                {
+                    for (int j = i + 1; j < str.Length; j++)
+                    {
+                        if (str[i] == str[j])
+                        {
+                            _isOverlap = false;
+                        }
+                    }
+                }
+            }
+
+            if (!_isOverlap)
+            {
+                Console.WriteLine("중복되는 숫자가 있습니다.");
+            }
+
+            if (!_isNumber)
+            {
+                Console.WriteLine("문자가 섞여있습니다.");
+            }
+
+            if (_isLength && _isNumber && _isOverlap)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         static void Main(string[] args)
         {
             ShowStartScreen();
+            int[] arrayCorrect = GetRandom();
 
-            int[] arrayCorrectNum = new int[3];
-            int[] arrayResult = GetNumber();
-            
-            for (int i = 0; i < arrayCorrectNum.Length; i++)
-            {
-                arrayCorrectNum[i] = arrayResult[i];
-            }
+            int _count = 0;
 
             while (true)
             {
-                string str = Console.ReadLine();
+                string inputStr = Console.ReadLine();
+                bool _bool = GetCheckNumber(inputStr);
 
-                if (IsNumberCheck(str))
+                if (_bool)
                 {
-                    int[] arrayEnterNum = new int[3];
-
-                    for (int i = 0; i < arrayEnterNum.Length; i++)
-                    {
-                        arrayEnterNum[i] = int.Parse(str[i].ToString());
-                    }
-
+                    _count++;
                     int _strike = 0;
                     int _ball = 0;
 
-                    for (int i = 0; i < arrayCorrectNum.Length; i++)
+                    for (int i = 0; i < inputStr.Length; i++)
                     {
-                        for (int j = 0; j < arrayEnterNum.Length; j++)
+                        int tempNum = (int)inputStr[i] - 48;
+
+                        for (int j = 0; j < arrayCorrect.Length; j++)
                         {
-                            if (arrayCorrectNum[i] == arrayEnterNum[j])
+                            if (tempNum == arrayCorrect[j])
                             {
                                 if (i == j)
                                 {
@@ -141,19 +173,20 @@ namespace BaseballEx
                         }
                     }
 
-                    Console.WriteLine(_strike + " S");
-                    Console.WriteLine(_ball + " B");
-                    Console.WriteLine();
+                    Console.WriteLine("S : " + _strike);
+                    Console.WriteLine("B : " + _ball);
 
-                    if (_strike >= 3)
+                    if (_strike == 3)
                     {
-                        Console.WriteLine("게임 종료");
-                        break;
-                    }
-                }
-                else
-                {
+                        Console.WriteLine("정답입니다!");
+                        Console.WriteLine("시도한 횟수 : " + _count);
+                        Console.ReadKey();
 
+                        Console.Clear();
+                        ShowStartScreen();
+                        arrayCorrect = GetRandom();
+                        _count = 0;
+                    }
                 }
             }
         }

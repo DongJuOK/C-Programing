@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestProject\bin\Debug\TestProject.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestProject\obj\Debug\TestProject.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestProject\obj\Debug\TestProject.exe.config
