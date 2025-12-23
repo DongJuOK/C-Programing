@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E31470DB-1390-48C8-8CF4-41833E87A366}|TestProject2\\TestProject2.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\testproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31470DB-1390-48C8-8CF4-41833E87A366}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{993D717B-6E0E-4FC4-91A1-7EDFA8A9F469}|TestProject\\TestProject.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{993D717B-6E0E-4FC4-91A1-7EDFA8A9F469}|TestProject\\TestProject.csproj|solutionrelative:testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9F63B2-2D05-4314-98CE-2C13836B0046}|BaseballEx\\BaseballEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\baseballex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9F63B2-2D05-4314-98CE-2C13836B0046}|BaseballEx\\BaseballEx.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\baseballex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9F63B2-2D05-4314-98CE-2C13836B0046}|BaseballEx\\BaseballEx.csproj|solutionrelative:baseballex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,18 +51,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestProject2\\Program.cs",
+              "RelativeDocumentMoniker": "TestProject2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestProject2\\Program.cs",
+              "RelativeToolTip": "TestProject2\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T01:41:57.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestProject\\Program.cs",
               "RelativeDocumentMoniker": "TestProject\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestProject\\Program.cs",
               "RelativeToolTip": "TestProject\\Program.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAADQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwEcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T03:07:06.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\BaseballEx\\Program.cs",
               "RelativeDocumentMoniker": "BaseballEx\\Program.cs",
@@ -66,12 +83,11 @@
               "RelativeToolTip": "BaseballEx\\Program.cs",
               "ViewState": "AgIAAJcAAAAAAAAAAAAUwLAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T01:34:16.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T01:34:16.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StringEx",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StringEx\\StringEx.csproj",
               "RelativeDocumentMoniker": "StringEx\\StringEx.csproj",
@@ -82,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StringEx\\Program.cs",
               "RelativeDocumentMoniker": "StringEx\\Program.cs",
@@ -94,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\PracticeEx\\Program.cs",
               "RelativeDocumentMoniker": "PracticeEx\\Program.cs",
@@ -106,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Item.cs",
               "RelativeDocumentMoniker": "InvenEx\\Item.cs",
@@ -118,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Program.cs",
               "RelativeDocumentMoniker": "InvenEx\\Program.cs",
@@ -130,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\ListEx\\Program.cs",
               "RelativeDocumentMoniker": "ListEx\\Program.cs",
