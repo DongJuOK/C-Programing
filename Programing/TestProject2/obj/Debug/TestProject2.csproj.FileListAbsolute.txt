@@ -6,3 +6,11 @@ C:\Users\Administrator\Desktop\C-Programing\Programing\TestProject2\obj\Debug\Te
 C:\Users\Administrator\Desktop\C-Programing\Programing\TestProject2\obj\Debug\TestProject2.exe
 C:\Users\Administrator\Desktop\C-Programing\Programing\TestProject2\obj\Debug\TestProject2.pdb
 C:\Users\Administrator\Desktop\C-Programing\Programing\TestProject2\obj\Debug\TestProject2.exe.config
+C:\Users\user\Desktop\C-Programing\Programing\TestProject2\bin\Debug\TestProject2.exe.config
+C:\Users\user\Desktop\C-Programing\Programing\TestProject2\bin\Debug\TestProject2.exe
+C:\Users\user\Desktop\C-Programing\Programing\TestProject2\bin\Debug\TestProject2.pdb
+C:\Users\user\Desktop\C-Programing\Programing\TestProject2\obj\Debug\TestProject2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C-Programing\Programing\TestProject2\obj\Debug\TestProject2.exe.config
+C:\Users\user\Desktop\C-Programing\Programing\TestProject2\obj\Debug\TestProject2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C-Programing\Programing\TestProject2\obj\Debug\TestProject2.exe
+C:\Users\user\Desktop\C-Programing\Programing\TestProject2\obj\Debug\TestProject2.pdb

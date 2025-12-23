@@ -1,40 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E31470DB-1390-48C8-8CF4-41833E87A366}|TestProject2\\TestProject2.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\testproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E31470DB-1390-48C8-8CF4-41833E87A366}|TestProject2\\TestProject2.csproj|c:\\users\\user\\desktop\\c-programing\\programing\\testproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E31470DB-1390-48C8-8CF4-41833E87A366}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993D717B-6E0E-4FC4-91A1-7EDFA8A9F469}|TestProject\\TestProject.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{993D717B-6E0E-4FC4-91A1-7EDFA8A9F469}|TestProject\\TestProject.csproj|C:\\Users\\user\\Desktop\\C-Programing\\Programing\\testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{993D717B-6E0E-4FC4-91A1-7EDFA8A9F469}|TestProject\\TestProject.csproj|solutionrelative:testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9F63B2-2D05-4314-98CE-2C13836B0046}|BaseballEx\\BaseballEx.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\baseballex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9F63B2-2D05-4314-98CE-2C13836B0046}|BaseballEx\\BaseballEx.csproj|C:\\Users\\user\\Desktop\\C-Programing\\Programing\\baseballex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9F63B2-2D05-4314-98CE-2C13836B0046}|BaseballEx\\BaseballEx.csproj|solutionrelative:baseballex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213F0ACB-571D-448C-85AA-5884C3D05B78}|PracticeEx\\PracticeEx.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practiceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{213F0ACB-571D-448C-85AA-5884C3D05B78}|PracticeEx\\PracticeEx.csproj|C:\\Users\\user\\Desktop\\C-Programing\\Programing\\practiceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213F0ACB-571D-448C-85AA-5884C3D05B78}|PracticeEx\\PracticeEx.csproj|solutionrelative:practiceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|StringEx||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{678158A6-6994-4453-8353-FD34CB06D05C}|StringEx\\StringEx.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\stringex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{678158A6-6994-4453-8353-FD34CB06D05C}|StringEx\\StringEx.csproj|C:\\Users\\user\\Desktop\\C-Programing\\Programing\\stringex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{678158A6-6994-4453-8353-FD34CB06D05C}|StringEx\\StringEx.csproj|solutionrelative:stringex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C01575D-CFFD-42A2-B2B9-E69BF415E2D8}|ListEx\\ListEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\listex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C01575D-CFFD-42A2-B2B9-E69BF415E2D8}|ListEx\\ListEx.csproj|c:\\users\\user\\desktop\\c-programing\\programing\\listex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C01575D-CFFD-42A2-B2B9-E69BF415E2D8}|ListEx\\ListEx.csproj|solutionrelative:listex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69252E91-FA12-450A-9997-CDFCDB5D41EF}|InvenEx\\InvenEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\invenex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69252E91-FA12-450A-9997-CDFCDB5D41EF}|InvenEx\\InvenEx.csproj|c:\\users\\user\\desktop\\c-programing\\programing\\invenex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69252E91-FA12-450A-9997-CDFCDB5D41EF}|InvenEx\\InvenEx.csproj|solutionrelative:invenex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69252E91-FA12-450A-9997-CDFCDB5D41EF}|InvenEx\\InvenEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\invenex\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69252E91-FA12-450A-9997-CDFCDB5D41EF}|InvenEx\\InvenEx.csproj|c:\\users\\user\\desktop\\c-programing\\programing\\invenex\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69252E91-FA12-450A-9997-CDFCDB5D41EF}|InvenEx\\InvenEx.csproj|solutionrelative:invenex\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -51,11 +51,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestProject2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\TestProject2\\Program.cs",
               "RelativeDocumentMoniker": "TestProject2\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestProject2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\TestProject2\\Program.cs",
               "RelativeToolTip": "TestProject2\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwBkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAowK8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T01:41:57.862Z",
               "EditorCaption": ""
@@ -64,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestProject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\TestProject\\Program.cs",
               "RelativeDocumentMoniker": "TestProject\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestProject\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\TestProject\\Program.cs",
               "RelativeToolTip": "TestProject\\Program.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAuwEcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\BaseballEx\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\BaseballEx\\Program.cs",
               "RelativeDocumentMoniker": "BaseballEx\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\BaseballEx\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\BaseballEx\\Program.cs",
               "RelativeToolTip": "BaseballEx\\Program.cs",
               "ViewState": "AgIAAJcAAAAAAAAAAAAUwLAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "StringEx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StringEx\\StringEx.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\StringEx\\StringEx.csproj",
               "RelativeDocumentMoniker": "StringEx\\StringEx.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StringEx\\StringEx.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\StringEx\\StringEx.csproj",
               "RelativeToolTip": "StringEx\\StringEx.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-19T00:45:53.946Z"
@@ -99,9 +99,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StringEx\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\StringEx\\Program.cs",
               "RelativeDocumentMoniker": "StringEx\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StringEx\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\StringEx\\Program.cs",
               "RelativeToolTip": "StringEx\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,9 +111,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\PracticeEx\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\PracticeEx\\Program.cs",
               "RelativeDocumentMoniker": "PracticeEx\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\PracticeEx\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\PracticeEx\\Program.cs",
               "RelativeToolTip": "PracticeEx\\Program.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAAAFQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,9 +123,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\InvenEx\\Item.cs",
               "RelativeDocumentMoniker": "InvenEx\\Item.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Item.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\InvenEx\\Item.cs",
               "RelativeToolTip": "InvenEx\\Item.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,9 +135,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\InvenEx\\Program.cs",
               "RelativeDocumentMoniker": "InvenEx\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\InvenEx\\Program.cs",
               "RelativeToolTip": "InvenEx\\Program.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAkwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,9 +147,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\ListEx\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\ListEx\\Program.cs",
               "RelativeDocumentMoniker": "ListEx\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\ListEx\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-Programing\\Programing\\ListEx\\Program.cs",
               "RelativeToolTip": "ListEx\\Program.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAYwFUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

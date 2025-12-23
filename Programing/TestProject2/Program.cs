@@ -173,8 +173,7 @@ namespace TestProject2
 
                 if (monster.Hp <= 0)
                 {
-                    Console.WriteLine("게임 종료");
-                    break;
+                    monster = new Monster(player);
                 }
             }
 
