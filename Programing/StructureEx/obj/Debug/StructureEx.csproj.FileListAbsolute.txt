@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C-Programing\Programing\StructureEx\bin\Debug\StructureEx.exe.config
+C:\Users\Administrator\Desktop\C-Programing\Programing\StructureEx\bin\Debug\StructureEx.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\StructureEx\bin\Debug\StructureEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\StructureEx\obj\Debug\StructureEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\StructureEx\obj\Debug\StructureEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\StructureEx\obj\Debug\StructureEx.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\StructureEx\obj\Debug\StructureEx.pdb
