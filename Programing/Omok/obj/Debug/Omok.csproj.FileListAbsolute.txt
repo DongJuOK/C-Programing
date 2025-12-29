@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C-Programing\Programing\Omok\bin\Debug\Omok.exe.config
+C:\Users\Administrator\Desktop\C-Programing\Programing\Omok\bin\Debug\Omok.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\Omok\bin\Debug\Omok.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\Omok\obj\Debug\Omok.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\Omok\obj\Debug\Omok.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\Omok\obj\Debug\Omok.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\Omok\obj\Debug\Omok.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\Omok\obj\Debug\Omok.exe.config

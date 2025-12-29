@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InvenEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac8b17e021eee787118cbdc907e6ffc2a0709799")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e0f4fc3176d1bf15a45feb3c5d4b6722fd76a92")]
 [assembly: System.Reflection.AssemblyProductAttribute("InvenEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InvenEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

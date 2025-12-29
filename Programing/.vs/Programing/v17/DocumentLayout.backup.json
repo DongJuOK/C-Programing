@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D78BE8F-6A9C-4C0D-AEF6-1DE7428E578A}|StructureEx\\StructureEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\structureex\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D78BE8F-6A9C-4C0D-AEF6-1DE7428E578A}|StructureEx\\StructureEx.csproj|solutionrelative:structureex\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E411D920-40BB-4932-89B0-A2812CD4A569}|Omok\\Omok.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\omok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E411D920-40BB-4932-89B0-A2812CD4A569}|Omok\\Omok.csproj|solutionrelative:omok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D78BE8F-6A9C-4C0D-AEF6-1DE7428E578A}|StructureEx\\StructureEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\structureex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D78BE8F-6A9C-4C0D-AEF6-1DE7428E578A}|StructureEx\\StructureEx.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\structureex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D78BE8F-6A9C-4C0D-AEF6-1DE7428E578A}|StructureEx\\StructureEx.csproj|solutionrelative:structureex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E31470DB-1390-48C8-8CF4-41833E87A366}|TestProject2\\TestProject2.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\testproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E31470DB-1390-48C8-8CF4-41833E87A366}|TestProject2\\TestProject2.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\testproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E31470DB-1390-48C8-8CF4-41833E87A366}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,14 +58,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyList.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StructureEx\\MyList.cs",
-              "RelativeDocumentMoniker": "StructureEx\\MyList.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StructureEx\\MyList.cs",
-              "RelativeToolTip": "StructureEx\\MyList.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAUwE8AAAAaAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Omok\\Program.cs",
+              "RelativeDocumentMoniker": "Omok\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Omok\\Program.cs*",
+              "RelativeToolTip": "Omok\\Program.cs*",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAkwHMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T02:03:31.04Z",
+              "WhenOpened": "2025-12-29T00:22:38.721Z",
               "EditorCaption": ""
             },
             {
@@ -78,8 +78,7 @@
               "RelativeToolTip": "StructureEx\\Program.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAkwCcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T00:11:20.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T00:11:20.593Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "RelativeToolTip": "TestProject2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T01:41:57.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T01:41:57.862Z"
             },
             {
               "$type": "Document",

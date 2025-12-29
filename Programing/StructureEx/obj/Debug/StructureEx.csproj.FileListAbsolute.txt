@@ -5,3 +5,4 @@ C:\Users\Administrator\Desktop\C-Programing\Programing\StructureEx\obj\Debug\Str
 C:\Users\Administrator\Desktop\C-Programing\Programing\StructureEx\obj\Debug\StructureEx.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\C-Programing\Programing\StructureEx\obj\Debug\StructureEx.exe
 C:\Users\Administrator\Desktop\C-Programing\Programing\StructureEx\obj\Debug\StructureEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\StructureEx\obj\Debug\StructureEx.exe.config
