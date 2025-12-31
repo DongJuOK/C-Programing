@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C-Programing\Programing\Review\bin\Debug\Review.exe.config
+C:\Users\Administrator\Desktop\C-Programing\Programing\Review\bin\Debug\Review.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\Review\bin\Debug\Review.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\Review\obj\Debug\Review.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\Review\obj\Debug\Review.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\Review\obj\Debug\Review.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\Review\obj\Debug\Review.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\Review\obj\Debug\Review.exe.config
