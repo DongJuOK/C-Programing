@@ -141,11 +141,11 @@ namespace Review
                 Console.WriteLine();
             }
 
-            for (int i = width; i > 0; i--)
+            for (int i = 0; i < width; i++)
             {
-                for (int j = 0; j < i; j++)
+                for (int j = width; j > i; j--)
                 {
-                    Console.Write("  ");
+                    Console.Write("ㅇ");
                 }
 
                 Console.WriteLine();

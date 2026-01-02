@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C-Programing\Programing\DelegateEx\bin\Debug\DelegateEx.exe.config
+C:\Users\Administrator\Desktop\C-Programing\Programing\DelegateEx\bin\Debug\DelegateEx.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\DelegateEx\bin\Debug\DelegateEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\DelegateEx\obj\Debug\DelegateEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\DelegateEx\obj\Debug\DelegateEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\DelegateEx\obj\Debug\DelegateEx.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\DelegateEx\obj\Debug\DelegateEx.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\DelegateEx\obj\Debug\DelegateEx.exe.config

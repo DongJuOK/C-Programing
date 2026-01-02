@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestRPG\bin\Debug\TestRPG.exe.config
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestRPG\bin\Debug\TestRPG.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestRPG\bin\Debug\TestRPG.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestRPG\obj\Debug\TestRPG.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestRPG\obj\Debug\TestRPG.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestRPG\obj\Debug\TestRPG.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestRPG\obj\Debug\TestRPG.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\TestRPG\obj\Debug\TestRPG.exe.config
