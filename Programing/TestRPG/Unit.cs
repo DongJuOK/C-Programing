@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace TestRPG
 {
-    internal class Unit
+    public interface IMoveController
+    {
+        void InputMove(ConsoleKeyInfo _keyInfo, int _size);
+        void 
+    }
+
+    public class Unit
     {
         protected string m_name;
 
@@ -71,7 +77,17 @@ namespace TestRPG
             get { return m_gold; }
         }
 
-        private char coordinate;
+        public int CurX
+        {
+            get;
+            set;
+        }
+
+        public int CurY
+        {
+            get;
+            set;
+        }
 
         public void ShowStatus()
         {
@@ -81,11 +97,6 @@ namespace TestRPG
             Console.WriteLine($"공격력 : {AttValue}  방어력 : {DefValue}");
             Console.WriteLine($"골드 : {Gold}");
             Console.WriteLine("=====================================");
-        }
-
-        public void Move()
-        {
-            
         }
     }
 }

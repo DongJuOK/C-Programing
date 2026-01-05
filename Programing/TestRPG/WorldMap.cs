@@ -20,18 +20,17 @@ namespace TestRPG
 
     public class WorldMap
     {
-        Dictionary<Map, StageMap> m_dicMap = new Dictionary<Map, StageMap>();
+        private Dictionary<Map, StageMap> m_dicMap = new Dictionary<Map, StageMap>();
 
-        // private int[,] m_startMap;
-        // private int[,] m_townMap;
-        // private int[,] m_riverMap;
+        private Map m_curMap;
+        private StageMap m_curStageMap;
 
-        public WorldMap()
+        public WorldMap(Map _map = Map.start)
         {
-            InitMap();
+            InitMap(_map);
         }
 
-        private void InitMap()
+        private void InitMap(Map _map)
         {
             StageMap startMap = new StageMap();
             startMap.m_seat = new int[,]
@@ -79,29 +78,47 @@ namespace TestRPG
             m_dicMap.Add(Map.start, startMap);
             m_dicMap.Add(Map.town, townMap);
             m_dicMap.Add(Map.river, riverMap);
+
+            SetCurMap(_map);
+        }
+
+        public void SetCurMap(Map _map)
+        {
+            if (m_dicMap.TryGetValue(Map.start, out m_curStageMap))
+            {
+                m_curMap = _map;
+            }
+            else
+            {
+                Console.WriteLine("처음 초기화 하는 부분에서 맵을 가져오다가 실패했습니다.");
+            }
         }
 
         private int[,] GetMap(Map _map)
         {
-            if (m_dicMap.ContainsKey(_map))
+            StageMap getMap;
+            if (m_dicMap.TryGetValue(_map, out getMap))
             {
-                StageMap getMap;
-                m_dicMap.TryGetValue(_map, out getMap);
                 return getMap.m_seat;
             }
 
+            // 맵을 제대로 전달하지 못한 경우
             return null;
         }
 
-        public void ShowScreenMap(Map _map)
+        public void ShowScreenMap(Unit _player)
         {
-            int[,] curMap = GetMap(_map);
+            int[,] curMap = GetMap(m_curMap);
 
             for (int y = 0; y < curMap.GetLength(0); y++)
             {
                 for (int x = 0; x < curMap.GetLength(1); x++)
                 {
-                    if (curMap[y, x] == 0)
+                    if (_player.CurX == x && _player.CurY == y)
+                    {
+                        Console.Write("P ");
+                    }
+                    else if (curMap[y, x] == 0)
                     {
                         Console.Write("' ");
                     }
@@ -121,6 +138,16 @@ namespace TestRPG
 
                 Console.WriteLine();
             }
+        }
+
+        /// <summary>
+        /// 현재 맵 사이즈를 가져오는 메서드
+        /// </summary>
+        /// <param name="dimension">0과 1만 넣으세요</param>
+        /// <returns></returns>
+        public int GetCurMapSize(int dimension)
+        {
+            return m_curStageMap.m_seat.GetLength(dimension);
         }
     }
 }

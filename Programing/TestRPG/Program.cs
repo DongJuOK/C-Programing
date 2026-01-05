@@ -17,10 +17,9 @@ namespace TestRPG
             while (true)
             {
                 Console.Clear();
-                map.ShowScreenMap(Map.start);
+                map.ShowScreenMap(playerWarrior);
                 playerWarrior.ShowStatus();
-
-                Console.ReadLine();
+                playerWarrior.InputMove(Console.ReadKey(), map.GetCurMapSize(0), map.GetCurMapSize(1));
             }
         }
     }
@@ -29,7 +28,9 @@ namespace TestRPG
 /*
 
 1. 맵 만들기
+   - 완 -  나중에 수정을 할 수도 있지만
 2. 캐릭터 클래스
+   - 완 - 수정 할 수 있지만
 3. 인벤토리
 4. 아이템 만들기
 

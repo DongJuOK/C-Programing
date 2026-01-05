@@ -7,27 +7,35 @@
       "RelativeMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|solutionrelative:testrpg\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\testrpg\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|solutionrelative:testrpg\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\testrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|solutionrelative:testrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\testrpg\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\testrpg\\playerunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|solutionrelative:testrpg\\playerunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\testrpg\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|solutionrelative:testrpg\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\testrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|solutionrelative:testrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\testrpg\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|solutionrelative:testrpg\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\testrpg\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{929D4325-7004-42B0-9C3D-D23B1B011D7A}|TestRPG\\TestRPG.csproj|solutionrelative:testrpg\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E411D920-40BB-4932-89B0-A2812CD4A569}|Omok\\Omok.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\omok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E411D920-40BB-4932-89B0-A2812CD4A569}|Omok\\Omok.csproj|solutionrelative:omok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FBD6BB3-FEFC-471A-A473-6FB924D825CB}|DelegateEx\\DelegateEx.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\delegateex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FBD6BB3-FEFC-471A-A473-6FB924D825CB}|DelegateEx\\DelegateEx.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\delegateex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FBD6BB3-FEFC-471A-A473-6FB924D825CB}|DelegateEx\\DelegateEx.csproj|solutionrelative:delegateex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5241B0D7-0FE7-49C9-8CFE-96583120BBFC}|Review\\Review.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5241B0D7-0FE7-49C9-8CFE-96583120BBFC}|Review\\Review.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5241B0D7-0FE7-49C9-8CFE-96583120BBFC}|Review\\Review.csproj|solutionrelative:review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -49,9 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{213F0ACB-571D-448C-85AA-5884C3D05B78}|PracticeEx\\PracticeEx.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practiceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213F0ACB-571D-448C-85AA-5884C3D05B78}|PracticeEx\\PracticeEx.csproj|solutionrelative:practiceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|StringEx||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{678158A6-6994-4453-8353-FD34CB06D05C}|StringEx\\StringEx.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\stringex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,17 +82,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\App.config",
+              "RelativeDocumentMoniker": "TestRPG\\App.config",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\App.config",
+              "RelativeToolTip": "TestRPG\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-05T00:47:53.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerUnit.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\PlayerUnit.cs",
+              "RelativeDocumentMoniker": "TestRPG\\PlayerUnit.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\PlayerUnit.cs",
+              "RelativeToolTip": "TestRPG\\PlayerUnit.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T00:39:09.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Warrior.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\Warrior.cs",
               "RelativeDocumentMoniker": "TestRPG\\Warrior.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\Warrior.cs",
               "RelativeToolTip": "TestRPG\\Warrior.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAxwBAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T02:29:05.871Z",
               "EditorCaption": ""
@@ -100,53 +131,40 @@
               "RelativeDocumentMoniker": "TestRPG\\Unit.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\Unit.cs",
               "RelativeToolTip": "TestRPG\\Unit.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T02:28:01.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WorldMap.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\WorldMap.cs",
               "RelativeDocumentMoniker": "TestRPG\\WorldMap.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\WorldMap.cs",
               "RelativeToolTip": "TestRPG\\WorldMap.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAuwHYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAuwJEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T01:13:01.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\Program.cs",
               "RelativeDocumentMoniker": "TestRPG\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\Program.cs",
               "RelativeToolTip": "TestRPG\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T01:08:51.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\DelegateEx\\Program.cs",
-              "RelativeDocumentMoniker": "DelegateEx\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\DelegateEx\\Program.cs",
-              "RelativeToolTip": "DelegateEx\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA5wEEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T00:12:12.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Review\\Program.cs",
               "RelativeDocumentMoniker": "Review\\Program.cs",
@@ -154,12 +172,11 @@
               "RelativeToolTip": "Review\\Program.cs",
               "ViewState": "AgIAAIwAAAAAAAAAAAAxwJEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T00:09:17.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T00:09:17.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Omok\\Program.cs",
               "RelativeDocumentMoniker": "Omok\\Program.cs",
@@ -167,12 +184,11 @@
               "RelativeToolTip": "Omok\\Program.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAuwMEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T00:22:38.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T00:22:38.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StructureEx\\Program.cs",
               "RelativeDocumentMoniker": "StructureEx\\Program.cs",
@@ -184,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestProject2\\Program.cs",
               "RelativeDocumentMoniker": "TestProject2\\Program.cs",
@@ -196,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestProject\\Program.cs",
               "RelativeDocumentMoniker": "TestProject\\Program.cs",
@@ -208,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\BaseballEx\\Program.cs",
               "RelativeDocumentMoniker": "BaseballEx\\Program.cs",
@@ -220,18 +236,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StringEx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StringEx\\StringEx.csproj",
-              "RelativeDocumentMoniker": "StringEx\\StringEx.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StringEx\\StringEx.csproj",
-              "RelativeToolTip": "StringEx\\StringEx.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-19T00:45:53.946Z"
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\DelegateEx\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateEx\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\DelegateEx\\Program.cs",
+              "RelativeToolTip": "DelegateEx\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wEEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T00:12:12.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StringEx\\Program.cs",
               "RelativeDocumentMoniker": "StringEx\\Program.cs",
@@ -243,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\PracticeEx\\Program.cs",
               "RelativeDocumentMoniker": "PracticeEx\\Program.cs",
@@ -255,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Item.cs",
               "RelativeDocumentMoniker": "InvenEx\\Item.cs",
@@ -267,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Program.cs",
               "RelativeDocumentMoniker": "InvenEx\\Program.cs",
@@ -279,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\ListEx\\Program.cs",
               "RelativeDocumentMoniker": "ListEx\\Program.cs",

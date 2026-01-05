@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestRPG
 {
-    internal class Warrior : Unit
+    public class Warrior : PlayerUnit
     {
         public Warrior(string _name, int _lv, int _atk, int _def, int _gold = 300)
         {
@@ -18,6 +18,9 @@ namespace TestRPG
             m_hp = 100;
             m_mp = 30;
             m_gold = _gold;
+
+            CurX = 1;
+            CurY = 1;
         }
     }
 }
