@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C-Programing\Programing\new\bin\Debug\@new.exe.config
+C:\Users\Administrator\Desktop\C-Programing\Programing\new\bin\Debug\@new.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\new\bin\Debug\@new.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\new\obj\Debug\new.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\new\obj\Debug\new.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Programing\Programing\new\obj\Debug\@new.exe
+C:\Users\Administrator\Desktop\C-Programing\Programing\new\obj\Debug\@new.pdb
+C:\Users\Administrator\Desktop\C-Programing\Programing\new\obj\Debug\@new.exe.config
