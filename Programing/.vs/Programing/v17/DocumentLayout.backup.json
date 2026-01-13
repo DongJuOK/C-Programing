@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\practice_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EE5CA6D-5F8D-472D-9676-97AD84EBB495}|Practice_1\\Practice_1.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\practice_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EE5CA6D-5F8D-472D-9676-97AD84EBB495}|Practice_1\\Practice_1.csproj|solutionrelative:practice_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{976BEEB5-C060-4633-B374-63E58A771FAB}|new\\new.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{976BEEB5-C060-4633-B374-63E58A771FAB}|new\\new.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{976BEEB5-C060-4633-B374-63E58A771FAB}|new\\new.csproj|solutionrelative:new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -96,18 +100,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Program.cs",
+              "RelativeDocumentMoniker": "Practice_4\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Program.cs",
+              "RelativeToolTip": "Practice_4\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:09:21.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_1\\Program.cs",
               "RelativeDocumentMoniker": "Practice_1\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_1\\Program.cs",
               "RelativeToolTip": "Practice_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAOwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T00:08:24.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\new\\Program.cs",
               "RelativeDocumentMoniker": "new\\Program.cs",
@@ -115,12 +132,11 @@
               "RelativeToolTip": "new\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAkwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T01:40:19.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T01:40:19.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\App.config",
               "RelativeDocumentMoniker": "TestRPG\\App.config",
@@ -132,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerUnit.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\PlayerUnit.cs",
               "RelativeDocumentMoniker": "TestRPG\\PlayerUnit.cs",
@@ -144,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Warrior.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\Warrior.cs",
               "RelativeDocumentMoniker": "TestRPG\\Warrior.cs",
@@ -156,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Unit.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\Unit.cs",
               "RelativeDocumentMoniker": "TestRPG\\Unit.cs",
@@ -168,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WorldMap.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\WorldMap.cs",
               "RelativeDocumentMoniker": "TestRPG\\WorldMap.cs",
@@ -180,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\Program.cs",
               "RelativeDocumentMoniker": "TestRPG\\Program.cs",
@@ -192,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Review\\Program.cs",
               "RelativeDocumentMoniker": "Review\\Program.cs",
@@ -204,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Omok\\Program.cs",
               "RelativeDocumentMoniker": "Omok\\Program.cs",
@@ -216,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StructureEx\\Program.cs",
               "RelativeDocumentMoniker": "StructureEx\\Program.cs",
@@ -228,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestProject2\\Program.cs",
               "RelativeDocumentMoniker": "TestProject2\\Program.cs",
@@ -240,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestProject\\Program.cs",
               "RelativeDocumentMoniker": "TestProject\\Program.cs",
@@ -252,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\BaseballEx\\Program.cs",
               "RelativeDocumentMoniker": "BaseballEx\\Program.cs",
@@ -264,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\DelegateEx\\Program.cs",
               "RelativeDocumentMoniker": "DelegateEx\\Program.cs",
@@ -276,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\StringEx\\Program.cs",
               "RelativeDocumentMoniker": "StringEx\\Program.cs",
@@ -288,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\PracticeEx\\Program.cs",
               "RelativeDocumentMoniker": "PracticeEx\\Program.cs",
@@ -300,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Item.cs",
               "RelativeDocumentMoniker": "InvenEx\\Item.cs",
@@ -312,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\InvenEx\\Program.cs",
               "RelativeDocumentMoniker": "InvenEx\\Program.cs",
@@ -324,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\ListEx\\Program.cs",
               "RelativeDocumentMoniker": "ListEx\\Program.cs",

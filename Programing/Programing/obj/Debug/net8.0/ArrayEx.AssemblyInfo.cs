@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e9b6f938f048e05481a6653073baf5da7a3d39a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a41fe7cd339f82066fa0123a2d0843656ff79d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
