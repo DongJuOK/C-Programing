@@ -9,180 +9,39 @@ using System.Threading.Tasks;
 
 namespace Practice_4
 {
-    public class Revolver
-    {
-        List<bool> m_chamber;
-
-        bool m_bullet;
-        int m_size;
-        int m_bullet_count;
-
-        public List<bool> Chamber
-        {
-            get { return m_chamber; }
-        }
-
-        public bool Bullet
-        {
-            get { return m_bullet; }
-        }
-
-        public int Size
-        {
-            get { return m_size; }
-        }
-
-        public int Bullet_Count
-        {
-            get { return m_bullet_count; }
-        }
-
-        public Revolver()
-        {
-            m_chamber = new List<bool>();
-            m_bullet = true;
-            m_size = 0;
-            m_bullet_count = 1;
-        }
-
-        public void setChamber()
-        {
-            Console.Write("약실의 수를 설정해주세요 : ");
-
-            string chamber = Console.ReadLine();
-
-            int.TryParse(chamber, out m_size);
-
-            if (Size < 6 || Size > 50)
-            {
-                m_size = 6;
-                Console.WriteLine("약실의 수가 범위를 벗어나 6으로 변경되었습니다.");
-            }
-
-            for (int i = 0; i < Size; i++)
-            {
-                m_chamber.Add(!Bullet);
-            }
-        }
-
-        public void setBullet()
-        {
-            Console.Write("총알 수를 설정해주세요 : ");
-
-            string bullet = Console.ReadLine();
-
-            int.TryParse(bullet, out m_bullet_count);
-
-            Random rand = new Random();
-
-            if (Bullet_Count < 1 || Bullet_Count >= 50)
-            {
-                Console.WriteLine("잘못된 총알 수를 입력하여 1발만 장전되었습니다.");
-                m_bullet_count = 1;
-            }
-
-            int count = 0;
-
-            while (true)
-            {
-                int index = rand.Next(0, Size);
-
-                if (count == Bullet_Count)
-                    break;
-
-                if (m_chamber[index] != Bullet)
-                {
-                    m_chamber[index] = Bullet;
-                    count++;
-                }
-            }
-        }
-    }
-
-    public class Player
-    {
-        protected string m_name;
-        protected int m_count;
-
-        public string Name
-        {
-            get { return m_name; }
-            set { m_name = value; }
-        }
-
-        public int Count
-        {
-            get { return m_count; }
-            set { m_count = value; }
-        }
-
-        public void Shoot()
-        {
-            m_count++;
-            Console.WriteLine("방아쇠를 당깁니다.");
-            Console.ReadKey();
-        }
-    }
-
-    public class User : Player
-    {
-        User()
-        {
-            m_name = "";
-            m_count = 0;
-        }
-
-        public void set_UserName()
-        {
-            Name = Console.ReadLine();
-        }
-
-
-    }
-
     internal class Program
     {
-        static void Solo_GamePlay(int count)
+        static int SetBreech()
         {
-            Console.Clear();
-            Console.WriteLine("1. 한 번 더 당긴다");
-            Console.WriteLine("2. 그만둔다");
+            Console.Write("약실의 개수를 입력해주세요 : ");
+
+            string m_size = Console.ReadLine();
+            int.TryParse(m_size, out int size);
+
+            return size;
         }
 
-        static void Multi_GamePlay(int count)
+        static int SetBullet()
         {
-            Console.Clear();
-            Console.WriteLine("1. 한 번 더 당긴다");
-            Console.WriteLine("2. 다음 상대에게 넘긴다");
+            Console.Write("총알의 개수를 입력해주세요 : ");
+
+            string m_bullet = Console.ReadLine();
+            int.TryParse (m_bullet, out int bullet);
+
+            return bullet;
+        }
+
+        static void Main(string[] args)
+        {
+            GamePlay game = new GamePlay(SetBreech(), SetBullet());
+
+            game.Setting();
 
             while (true)
             {
-                ConsoleKeyInfo key = Console.ReadKey(true);
-
-                switch (key.Key)
-                {
-                    case ConsoleKey.D1:
-                        count++;
-                        // 내 턴 지속
-                        return;
-
-                    case ConsoleKey.D2:
-                        // 다음 상대의 턴
-                        return;
-
-                    default:
-                        Console.WriteLine("잘못된 입력입니다.");
-                        Console.ReadKey(true);
-                        break;
-                }
+                game.Play();
+                Console.Clear();
             }
-        }
-        static void Main(string[] args)
-        {
-            Revolver revolver = new Revolver();
-
-            revolver.setChamber();
-            revolver.setBullet();
         }
     }
 }
