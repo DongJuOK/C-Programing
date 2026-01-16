@@ -11,31 +11,10 @@ namespace Practice_4
 {
     internal class Program
     {
-        static int SetBreech()
-        {
-            Console.Write("약실의 개수를 입력해주세요 : ");
-
-            string m_size = Console.ReadLine();
-            int.TryParse(m_size, out int size);
-
-            return size;
-        }
-
-        static int SetBullet()
-        {
-            Console.Write("총알의 개수를 입력해주세요 : ");
-
-            string m_bullet = Console.ReadLine();
-            int.TryParse (m_bullet, out int bullet);
-
-            return bullet;
-        }
-
         static void Main(string[] args)
         {
-            GamePlay game = new GamePlay(SetBreech(), SetBullet());
-
-            game.Setting();
+            GamePlay game = new GamePlay();
+            game.SetRevolver();
 
             while (true)
             {
@@ -49,11 +28,11 @@ namespace Practice_4
 /*
    리볼버 - 6개의 약실 중에 1개만 총알이 들어가있다.
 
-   1. 약실을 플레이어가 초기에 늘릴 수 있다.
+   1. 약실을 플레이어가 초기에 늘릴 수 있다.  - 클
       - 약실 : 6 그냥 이런식으로 적용 X
         변수를 통해서 약실 갯수를 변형이 가능해야한다.
 
-   2. 총알을 여러개 넣는게 가능하게
+   2. 총알을 여러개 넣는게 가능하게  - 클
       - 원래 정석은 6개의 약실에 총알 한 발
       - 20개의 약실에 총알 여러 발
 
@@ -69,7 +48,7 @@ namespace Practice_4
       - 아이템 - 총알이 있는지 없는지 확인하기
       - 특정 ai는 라이프가 더 있다. 얘도 아이템을 쓴다.
 
-   5. 내가 스스로 방아쇠를 당긴다음
+   5. 내가 스스로 방아쇠를 당긴다음 - 클
       - 한 번 더 당길지
       - 그냥 턴을 넘길지
  */

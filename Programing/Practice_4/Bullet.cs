@@ -13,7 +13,6 @@ namespace Practice_4
         public int Attack
         {
             get { return m_attack; }
-            set { m_attack = value; }
         }
 
         public Bullet()

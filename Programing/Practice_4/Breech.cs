@@ -10,15 +10,50 @@ namespace Practice_4
     {
         private Bullet m_bullet;
 
+        private bool m_isBullet;
+
         public Bullet Bullet
         {
             get { return m_bullet; }
-            set { m_bullet = value; }
+        }
+
+        public bool IsBullet
+        {
+            get { return m_isBullet; }
         }
 
         public Breech()
         {
+            m_isBullet = false;
+        }
+
+        public void SetBullet()
+        {
+            m_isBullet = true;
             m_bullet = new Bullet();
+        }
+
+        public bool Fire()
+        {
+            if (!m_isBullet)
+            {
+                return false;
+            }
+
+            m_isBullet = false;
+            m_bullet = null;
+
+            return true;
+        }
+
+        public bool IsEmpty()
+        {
+            if (!m_isBullet && m_bullet == null)
+            {
+                return true;
+            }
+
+            return false;
         }
     }
 }
