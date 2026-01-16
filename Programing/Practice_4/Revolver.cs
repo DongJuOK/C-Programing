@@ -71,30 +71,28 @@ namespace Practice_4
             }
         }
 
-        public bool Shoot()
+        public Bullet Shoot()
         {
             if (m_breech.All(x => x.IsEmpty()))
             {
-                Console.WriteLine("총알이 장전되지 않았습니다.");
-                Console.WriteLine();
-                return false;
+                Console.WriteLine("총알이 장전되지 않았습니다.\n");
+                return null;
             }
 
-            if (m_breech[BreechCount].Fire())
+            Bullet bullet = m_breech[m_breechCount].Fire();
+
+            if (bullet != null)
             {
-                Console.WriteLine("탕!");
-                Console.WriteLine();
-                return true;
+                Console.WriteLine("탕!\n");
             }
             else
             {
-                Console.WriteLine("틱...");
-                Console.WriteLine();
+                Console.WriteLine("틱...\n");
             }
 
-            m_breechCount++;
+            m_breechCount = (m_breechCount + 1) % m_breech.Length;
 
-            return false;
+            return bullet;
         }
     }
 }

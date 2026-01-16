@@ -60,28 +60,38 @@ namespace Practice_4
 
         public void SetRevolver()
         {
-            Revolver.SetBullet();
-            Revolver.Shuffle();
+            m_revolver.SetBullet();
+            m_revolver.Shuffle();
             Console.Clear();
         }
 
         public void Play()
         {
             m_count %= m_player.Count;
+
+            if (m_player[m_count].IsDead)
+            {
+                m_count++;
+            }
+
             m_player[m_count].OnTurn();
 
-            Console.WriteLine($"{m_player[m_count].Name}의 턴");
-            Console.WriteLine();
+            Console.WriteLine($"{m_player[m_count].Name}의 턴\n");
 
-            Revolver.Shoot();
+            m_player[m_count].Hit(m_revolver.Shoot());
 
-            Console.ReadKey();
+            Console.ReadKey(true);
 
             while (m_player[m_count].OnTurn())
             {
+                if (m_player[m_count].IsDead)
+                {
+                    m_count++;
+                    return;
+                }
+
                 Console.Clear();
-                Console.WriteLine($"{m_player[m_count].Name}의 턴");
-                Console.WriteLine();
+                Console.WriteLine($"{m_player[m_count].Name}의 턴\n");
                 Console.WriteLine("1. 추가 발사한다");
                 Console.WriteLine("2. 턴을 넘긴다");
 
@@ -92,7 +102,7 @@ namespace Practice_4
                     case ConsoleKey.NumPad1:
                     case ConsoleKey.D1:
                         Console.Clear();
-                        Revolver.Shoot();
+                        m_player[m_count].Hit(m_revolver.Shoot());
                         Console.ReadKey(true);
                         continue;
 
@@ -102,8 +112,7 @@ namespace Practice_4
                         return;
 
                     default:
-                        Console.WriteLine("잘못된 키 입력 입니다.");
-                        Console.WriteLine();
+                        Console.WriteLine("잘못된 키 입력 입니다.\n");
                         Console.ReadKey(true);
                         continue;
                 }

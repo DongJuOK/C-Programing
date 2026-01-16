@@ -33,17 +33,19 @@ namespace Practice_4
             m_bullet = new Bullet();
         }
 
-        public bool Fire()
+        public Bullet Fire()
         {
             if (!m_isBullet)
             {
-                return false;
+                return null;
             }
+
+            Bullet firedBullet = m_bullet;
 
             m_isBullet = false;
             m_bullet = null;
 
-            return true;
+            return firedBullet;
         }
 
         public bool IsEmpty()

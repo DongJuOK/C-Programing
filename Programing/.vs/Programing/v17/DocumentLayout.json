@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\practice_4\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\practice_4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\practice_4\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\breech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\breech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\breech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\breech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -122,13 +122,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Player.cs",
               "RelativeDocumentMoniker": "Practice_4\\Player.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Player.cs",
               "RelativeToolTip": "Practice_4\\Player.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAywEsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T01:12:29.739Z",
               "EditorCaption": ""
@@ -141,7 +141,7 @@
               "RelativeDocumentMoniker": "Practice_4\\GamePlay.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\GamePlay.cs",
               "RelativeToolTip": "Practice_4\\GamePlay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAgwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T03:03:29.959Z",
               "EditorCaption": ""
@@ -160,13 +160,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Breech.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Breech.cs",
               "RelativeDocumentMoniker": "Practice_4\\Breech.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Breech.cs",
               "RelativeToolTip": "Practice_4\\Breech.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwCAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T00:29:16.547Z",
               "EditorCaption": ""
@@ -179,7 +179,7 @@
               "RelativeDocumentMoniker": "Practice_4\\Bullet.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Bullet.cs",
               "RelativeToolTip": "Practice_4\\Bullet.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T00:29:02.647Z",
               "EditorCaption": ""
@@ -192,20 +192,20 @@
               "RelativeDocumentMoniker": "Practice_4\\Revolver.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Revolver.cs",
               "RelativeToolTip": "Practice_4\\Revolver.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAACkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T00:28:48.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Program.cs",
               "RelativeDocumentMoniker": "Practice_4\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Program.cs",
               "RelativeToolTip": "Practice_4\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAxwCIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T00:09:21.185Z",
               "EditorCaption": ""

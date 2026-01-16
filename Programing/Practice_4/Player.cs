@@ -11,6 +11,7 @@ namespace Practice_4
         private string m_name;
         private int m_hp;
         private bool m_playerturn;
+        private bool m_isDead;
 
         public string Name
         {
@@ -27,11 +28,17 @@ namespace Practice_4
             get { return m_playerturn; }
         }
 
+        public bool IsDead
+        {
+            get { return m_isDead; }
+        }
+
         public Player(string name = "Player")
         {
             m_name = name;
             m_hp = 1;
             m_playerturn = false;
+            m_isDead = false;
         }
 
         public bool OnTurn()
@@ -48,12 +55,25 @@ namespace Practice_4
             return PlayerTurn;
         }
 
-        public void Hit(bool _hit)
+        public void Hit(Bullet bullet)
         {
-            if (_hit == true)
+            if (bullet == null || m_isDead)
             {
-                m_hp--;
+                return;
             }
+
+            m_hp -= bullet.Attack;
+
+            if (m_hp <= 0)
+            {
+                Die();
+            }
+        }
+
+        public void Die()
+        {
+            m_isDead = true;
+            Console.WriteLine($"{m_name}가 죽었습니다.");
         }
     }
 }
