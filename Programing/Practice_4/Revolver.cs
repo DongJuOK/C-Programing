@@ -12,38 +12,17 @@ namespace Practice_4
     {
         private Breech[] m_breech;
 
-        public Breech[] Breech
-        {
-            get { return m_breech; }
-        }
-
         private int m_breechCount;
-
-        public int BreechCount
-        {
-            get { return m_breechCount; }
-        }
 
         private int m_bulletCount;
 
-        public int BulletCount
+        public Revolver(int breech, int bullet)
         {
-            get { return m_bulletCount; }
-        }
-
-        public Revolver()
-        {
-            Console.Write("약실의 수를 입력하세요 : ");
-            int.TryParse(Console.ReadLine(), out int brC);
-
-            Console.Write("총알의 수를 입력하세요 : ");
-            int.TryParse(Console.ReadLine(), out int buC);
-
-            m_breech = new Breech[brC];
+            m_breech = new Breech[breech];
             m_breechCount = 0;
-            m_bulletCount = buC;
+            m_bulletCount = bullet;
 
-            for (int i = 0; i < brC; i++)
+            for (int i = 0; i < breech; i++)
             {
                 m_breech[i] = new Breech();
             }
@@ -53,9 +32,9 @@ namespace Practice_4
         {
             for (int i = 0; i < m_bulletCount; i++)
             {
-                if (Breech[i].IsBullet == false)
+                if (m_breech[i].IsBullet == false)
                 {
-                    Breech[i].SetBullet();
+                    m_breech[i].SetBullet();
                 }
             }
         }
@@ -71,28 +50,31 @@ namespace Practice_4
             }
         }
 
-        public Bullet Shoot()
+        public bool Shoot(out Bullet bullet)
         {
-            if (m_breech.All(x => x.IsEmpty()))
-            {
-                Console.WriteLine("총알이 장전되지 않았습니다.\n");
-                return null;
-            }
-
-            Bullet bullet = m_breech[m_breechCount].Fire();
-
-            if (bullet != null)
-            {
-                Console.WriteLine("탕!\n");
-            }
-            else
-            {
-                Console.WriteLine("틱...\n");
-            }
+            bullet = m_breech[m_breechCount].Fire();
 
             m_breechCount = (m_breechCount + 1) % m_breech.Length;
 
-            return bullet;
+            return bullet != null;
+        }
+
+        public void Reload(int bullet = 1)
+        {
+            m_bulletCount = bullet;
+
+            SetBullet();
+            Shuffle();
+        }
+
+        public bool IsEmpty()
+        {
+            if (m_breech.All(x => x.IsEmpty()))
+            {
+                return true;
+            }
+
+            return false;
         }
     }
 }

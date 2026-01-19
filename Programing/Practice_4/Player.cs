@@ -18,16 +18,6 @@ namespace Practice_4
             get { return m_name; }
         }
 
-        public int Hp
-        {
-            get { return m_hp; }
-        }
-
-        public bool PlayerTurn
-        {
-            get { return m_playerturn; }
-        }
-
         public bool IsDead
         {
             get { return m_isDead; }
@@ -45,14 +35,14 @@ namespace Practice_4
         {
             m_playerturn = true;
 
-            return PlayerTurn;
+            return m_playerturn;
         }
 
         public bool OffTurn()
         {
             m_playerturn = false;
 
-            return PlayerTurn;
+            return m_playerturn;
         }
 
         public void Hit(Bullet bullet)

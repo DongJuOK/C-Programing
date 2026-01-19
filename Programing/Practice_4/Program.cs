@@ -16,11 +16,13 @@ namespace Practice_4
             GamePlay game = new GamePlay();
             game.SetRevolver();
 
-            while (true)
+            while (game.Active)
             {
                 game.Play();
                 Console.Clear();
             }
+
+            Console.WriteLine("게임 종료");
         }
     }
 }
@@ -36,7 +38,7 @@ namespace Practice_4
       - 원래 정석은 6개의 약실에 총알 한 발
       - 20개의 약실에 총알 여러 발
 
-   3. 혼자서, 1:1, 여러명 가능하게
+   3. 혼자서, 1:1, 여러명 가능하게 - 클
       - 여러명일 경우 - Ex) 5명
       - 총알이 발사됐을때 그때 한명이 die
       - 약실에 총알을 다시 넣고

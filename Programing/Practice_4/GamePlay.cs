@@ -16,14 +16,13 @@ namespace Practice_4
 
         private int m_count;
 
-        public Revolver Revolver
-        {
-            get { return m_revolver; }
-        }
+        private int m_living_count;
 
-        public List<Player> Player
+        private bool m_active;
+
+        public bool Active
         {
-            get { return m_player; }
+            get { return m_active; }
         }
 
         public GamePlay()
@@ -53,13 +52,22 @@ namespace Practice_4
 
                 Console.Clear();
             }
-
-            m_revolver = new Revolver();
+            
             m_count = 0;
+            m_living_count = m_player.Count;
+            m_active = true;
         }
 
         public void SetRevolver()
         {
+            Console.Write("약실의 수를 입력하세요 : ");
+            int.TryParse(Console.ReadLine(), out int brC);
+
+            Console.Write("총알의 수를 입력하세요 : ");
+            int.TryParse(Console.ReadLine(), out int buC);
+
+            m_revolver = new Revolver(brC, buC);
+
             m_revolver.SetBullet();
             m_revolver.Shuffle();
             Console.Clear();
@@ -72,26 +80,52 @@ namespace Practice_4
             if (m_player[m_count].IsDead)
             {
                 m_count++;
+                return;
             }
 
             m_player[m_count].OnTurn();
 
-            Console.WriteLine($"{m_player[m_count].Name}의 턴\n");
-
-            m_player[m_count].Hit(m_revolver.Shoot());
-
-            Console.ReadKey(true);
-
             while (m_player[m_count].OnTurn())
             {
-                if (m_player[m_count].IsDead)
+                if (m_living_count <= 1)
                 {
-                    m_count++;
+                    m_active = false;
                     return;
+                }
+                else if (m_revolver.IsEmpty())
+                {
+                    Console.WriteLine("모든 약실이 비어있습니다.\n");
+                    Console.Write("재장전 할 총알의 수를 입력하세요 : ");
+                    int.TryParse(Console.ReadLine(), out int buC);
+
+                    m_revolver.Reload(buC);
                 }
 
                 Console.Clear();
                 Console.WriteLine($"{m_player[m_count].Name}의 턴\n");
+
+                bool fired = m_revolver.Shoot(out Bullet bullet);
+
+                if (fired)
+                {
+                    Console.WriteLine("탕!\n");
+                }
+                else
+                {
+                    Console.WriteLine("틱...\n");
+                }
+
+                m_player[m_count].Hit(bullet);
+
+                Console.ReadKey(true);
+
+                if (m_player[m_count].IsDead)
+                {
+                    m_count++;
+                    m_living_count--;
+                    return;
+                }
+                
                 Console.WriteLine("1. 추가 발사한다");
                 Console.WriteLine("2. 턴을 넘긴다");
 
@@ -101,9 +135,6 @@ namespace Practice_4
                 {
                     case ConsoleKey.NumPad1:
                     case ConsoleKey.D1:
-                        Console.Clear();
-                        m_player[m_count].Hit(m_revolver.Shoot());
-                        Console.ReadKey(true);
                         continue;
 
                     case ConsoleKey.NumPad2:

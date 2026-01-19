@@ -12,11 +12,6 @@ namespace Practice_4
 
         private bool m_isBullet;
 
-        public Bullet Bullet
-        {
-            get { return m_bullet; }
-        }
-
         public bool IsBullet
         {
             get { return m_isBullet; }
