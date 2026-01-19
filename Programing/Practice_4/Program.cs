@@ -19,7 +19,6 @@ namespace Practice_4
             while (game.Active)
             {
                 game.Play();
-                Console.Clear();
             }
 
             Console.WriteLine("게임 종료");

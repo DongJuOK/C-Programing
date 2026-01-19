@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\practice_4\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5241B0D7-0FE7-49C9-8CFE-96583120BBFC}|Review\\Review.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5241B0D7-0FE7-49C9-8CFE-96583120BBFC}|Review\\Review.csproj|solutionrelative:review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|c:\\users\\administrator\\desktop\\c-programing\\programing\\practice_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|solutionrelative:practice_4\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7339F016-0A28-4C5D-8AF2-BB110BF380AD}|Practice_4\\Practice_4.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\practice_4\\breech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{0FBD6BB3-FEFC-471A-A473-6FB924D825CB}|DelegateEx\\DelegateEx.csproj|solutionrelative:delegateex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5241B0D7-0FE7-49C9-8CFE-96583120BBFC}|Review\\Review.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5241B0D7-0FE7-49C9-8CFE-96583120BBFC}|Review\\Review.csproj|solutionrelative:review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D78BE8F-6A9C-4C0D-AEF6-1DE7428E578A}|StructureEx\\StructureEx.csproj|C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\structureex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D78BE8F-6A9C-4C0D-AEF6-1DE7428E578A}|StructureEx\\StructureEx.csproj|solutionrelative:structureex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -118,37 +118,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Player.cs",
-              "RelativeDocumentMoniker": "Practice_4\\Player.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Player.cs",
-              "RelativeToolTip": "Practice_4\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T01:12:29.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GamePlay.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\GamePlay.cs",
               "RelativeDocumentMoniker": "Practice_4\\GamePlay.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\GamePlay.cs",
               "RelativeToolTip": "Practice_4\\GamePlay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T03:03:29.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\App.config",
               "RelativeDocumentMoniker": "Practice_4\\App.config",
@@ -160,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Breech.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Breech.cs",
               "RelativeDocumentMoniker": "Practice_4\\Breech.cs",
@@ -168,12 +155,11 @@
               "RelativeToolTip": "Practice_4\\Breech.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA5wDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T00:29:16.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T00:29:16.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Bullet.cs",
               "RelativeDocumentMoniker": "Practice_4\\Bullet.cs",
@@ -181,38 +167,37 @@
               "RelativeToolTip": "Practice_4\\Bullet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T00:29:02.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T00:29:02.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Revolver.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Revolver.cs",
               "RelativeDocumentMoniker": "Practice_4\\Revolver.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Revolver.cs",
               "RelativeToolTip": "Practice_4\\Revolver.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAIA2wDQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T00:28:48.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Program.cs",
               "RelativeDocumentMoniker": "Practice_4\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Program.cs",
               "RelativeToolTip": "Practice_4\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T00:09:21.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_1\\Program.cs",
               "RelativeDocumentMoniker": "Practice_1\\Program.cs",
@@ -224,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\new\\Program.cs",
               "RelativeDocumentMoniker": "new\\Program.cs",
@@ -236,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\App.config",
               "RelativeDocumentMoniker": "TestRPG\\App.config",
@@ -248,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PlayerUnit.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\PlayerUnit.cs",
               "RelativeDocumentMoniker": "TestRPG\\PlayerUnit.cs",
@@ -260,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Warrior.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\Warrior.cs",
               "RelativeDocumentMoniker": "TestRPG\\Warrior.cs",
@@ -272,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Unit.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\Unit.cs",
               "RelativeDocumentMoniker": "TestRPG\\Unit.cs",
@@ -284,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "WorldMap.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\WorldMap.cs",
               "RelativeDocumentMoniker": "TestRPG\\WorldMap.cs",
@@ -296,7 +281,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Review\\Program.cs",
+              "RelativeDocumentMoniker": "Review\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Review\\Program.cs",
+              "RelativeToolTip": "Review\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAkwJEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:09:17.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Player.cs",
+              "RelativeDocumentMoniker": "Practice_4\\Player.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Practice_4\\Player.cs",
+              "RelativeToolTip": "Practice_4\\Player.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:12:29.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\TestRPG\\Program.cs",
               "RelativeDocumentMoniker": "TestRPG\\Program.cs",
@@ -308,19 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Review\\Program.cs",
-              "RelativeDocumentMoniker": "Review\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Review\\Program.cs",
-              "RelativeToolTip": "Review\\Program.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAxwJEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T00:09:17.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\Omok\\Program.cs",
               "RelativeDocumentMoniker": "Omok\\Program.cs",
@@ -380,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Programing\\Programing\\DelegateEx\\Program.cs",
               "RelativeDocumentMoniker": "DelegateEx\\Program.cs",

@@ -83,42 +83,19 @@ namespace Practice_4
                 return;
             }
 
+            if (m_living_count <= 1)
+            {
+                Console.Clear();
+                m_active = false;
+                return;
+            }
+
+            Fire();
+
             m_player[m_count].OnTurn();
 
             while (m_player[m_count].OnTurn())
             {
-                if (m_living_count <= 1)
-                {
-                    m_active = false;
-                    return;
-                }
-                else if (m_revolver.IsEmpty())
-                {
-                    Console.WriteLine("모든 약실이 비어있습니다.\n");
-                    Console.Write("재장전 할 총알의 수를 입력하세요 : ");
-                    int.TryParse(Console.ReadLine(), out int buC);
-
-                    m_revolver.Reload(buC);
-                }
-
-                Console.Clear();
-                Console.WriteLine($"{m_player[m_count].Name}의 턴\n");
-
-                bool fired = m_revolver.Shoot(out Bullet bullet);
-
-                if (fired)
-                {
-                    Console.WriteLine("탕!\n");
-                }
-                else
-                {
-                    Console.WriteLine("틱...\n");
-                }
-
-                m_player[m_count].Hit(bullet);
-
-                Console.ReadKey(true);
-
                 if (m_player[m_count].IsDead)
                 {
                     m_count++;
@@ -127,7 +104,7 @@ namespace Practice_4
                 }
                 
                 Console.WriteLine("1. 추가 발사한다");
-                Console.WriteLine("2. 턴을 넘긴다");
+                Console.WriteLine("2. 턴을 넘긴다\n");
 
                 ConsoleKeyInfo key = Console.ReadKey(true);
 
@@ -135,7 +112,8 @@ namespace Practice_4
                 {
                     case ConsoleKey.NumPad1:
                     case ConsoleKey.D1:
-                        continue;
+                        Fire();
+                        break;
 
                     case ConsoleKey.NumPad2:
                     case ConsoleKey.D2:
@@ -145,9 +123,46 @@ namespace Practice_4
                     default:
                         Console.WriteLine("잘못된 키 입력 입니다.\n");
                         Console.ReadKey(true);
-                        continue;
+                        Console.Clear();
+                        Console.WriteLine($"{m_player[m_count].Name}의 턴\n");
+                        break;
                 }
             }
+        }
+
+        private void Fire()
+        {
+            if (m_living_count <= 1)
+            {
+                m_active = false;
+                return;
+            }
+            else if (m_revolver.IsEmpty())
+            {
+                Console.Clear();
+                Console.WriteLine("모든 약실이 비어있습니다.\n");
+                Console.Write("재장전 할 총알의 수를 입력하세요 : ");
+                int.TryParse(Console.ReadLine(), out int buC);
+                m_revolver.Reload(buC);
+            }
+
+            Console.Clear();
+            Console.WriteLine($"{m_player[m_count].Name}의 턴\n");
+
+            bool fired = m_revolver.Shoot(out Bullet bullet);
+
+            if (fired)
+            {
+                Console.WriteLine("탕!\n");
+            }
+            else
+            {
+                Console.WriteLine("틱...\n");
+            }
+
+            m_player[m_count].Hit(bullet);
+
+            Console.ReadKey(true);
         }
     }
 }
