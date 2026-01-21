@@ -18,6 +18,7 @@ namespace Practice_4
 
             while (game.Active)
             {
+                game.ShowPlayerInfo();
                 game.Play();
             }
 

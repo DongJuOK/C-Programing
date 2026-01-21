@@ -75,8 +75,6 @@ namespace Practice_4
 
         public void Play()
         {
-            m_count %= m_player.Count;
-
             if (m_player[m_count].IsDead)
             {
                 m_count++;
@@ -163,6 +161,19 @@ namespace Practice_4
             m_player[m_count].Hit(bullet);
 
             Console.ReadKey(true);
+        }
+
+        public void ShowPlayerInfo()
+        {
+            m_count %= m_player.Count;
+
+            if (!m_player[m_count].IsDead)
+            {
+                Console.WriteLine(m_player[m_count].Name);
+                Console.WriteLine(m_player[m_count].Hp);
+                Console.WriteLine("생존 여부 : O\n");
+                m_player[m_count].ShowInven();
+            }
         }
     }
 }
