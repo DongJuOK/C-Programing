@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Breech.cs" />
     <Compile Include="Bullet.cs" />
+    <Compile Include="Custom Bullet.cs" />
     <Compile Include="GamePlay.cs" />
     <Compile Include="Inventory.cs" />
     <Compile Include="Item.cs" />

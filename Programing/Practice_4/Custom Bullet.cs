@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace Practice_4
 {
-    public class Potion : Item
+    public class Custom_Bullet : Item
     {
-        public Potion(int quantity)
+        public Custom_Bullet(int quantity)
         {
-            Id = 1;
-            Name = "포션";
+            Id = 2;
+            Name = "특수 총알";
             Quantity = quantity;
         }
 
         public override void Use(Player player)
         {
-            player.Heal(3);
-            Console.WriteLine($"{player.Name}의 체력이 3 회복되었습니다.");
+            // 총알 데미지 3배
+            Console.WriteLine("총알의 데미지가 3배 증가하였습니다.");
             Quantity--;
         }
     }

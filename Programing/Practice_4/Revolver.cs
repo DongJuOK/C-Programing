@@ -18,12 +18,12 @@ namespace Practice_4
 
         public Revolver(int breech, int bullet)
         {
-            breech = Math.Max(breech, 6);
-
             if (bullet >= breech)
             {
                 bullet = 1;
             }
+
+            breech = Math.Max(breech, 6);
 
             m_breech = new Breech[breech];
             m_breechCount = 0;

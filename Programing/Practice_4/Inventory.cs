@@ -22,7 +22,7 @@ namespace Practice_4
 
         public bool IsEmpty()
         {
-            return item.Id == 0;
+            return item.Quantity == 0;
         }
 
         public string GetItemInfo()
