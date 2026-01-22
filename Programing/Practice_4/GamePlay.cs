@@ -60,21 +60,31 @@ namespace Practice_4
 
         public void SetRevolver()
         {
-            Console.Write("약실의 수를 입력하세요 : ");
-            int.TryParse(Console.ReadLine(), out int brC);
+            int brC = ReadInt("약실의 수를 입력하세요 : ");
+            int buC = ReadInt("총알의 수를 입력하세요 : ");
 
-            Console.Write("총알의 수를 입력하세요 : ");
-            int.TryParse(Console.ReadLine(), out int buC);
+            if (brC < 6)
+            {
+                Console.WriteLine("\n약실의 수가 너무 적어 6칸으로 조정되었습니다.");
+            }
+
+            if (buC >= brC)
+            {
+                Console.WriteLine($"\n총알의 수가 약실의 수보다 같거나 많아 1발로 조정되었습니다.");
+            }
 
             m_revolver = new Revolver(brC, buC);
 
             m_revolver.SetBullet();
             m_revolver.Shuffle();
+            Console.ReadKey(true);
             Console.Clear();
         }
 
         public void Play()
         {
+            m_count %= m_player.Count;
+
             if (m_player[m_count].IsDead)
             {
                 m_count++;
@@ -122,6 +132,7 @@ namespace Practice_4
                         Console.WriteLine("잘못된 키 입력 입니다.\n");
                         Console.ReadKey(true);
                         Console.Clear();
+                        ShowPlayerInfo();
                         Console.WriteLine($"{m_player[m_count].Name}의 턴\n");
                         break;
                 }
@@ -145,6 +156,7 @@ namespace Practice_4
             }
 
             Console.Clear();
+            ShowPlayerInfo();
             Console.WriteLine($"{m_player[m_count].Name}의 턴\n");
 
             bool fired = m_revolver.Shoot(out Bullet bullet);
@@ -165,14 +177,37 @@ namespace Practice_4
 
         public void ShowPlayerInfo()
         {
+            if (m_living_count <= 1)
+            {
+                m_active = false;
+                return;
+            }
+
+            Console.Clear();
+
             m_count %= m_player.Count;
 
             if (!m_player[m_count].IsDead)
             {
-                Console.WriteLine(m_player[m_count].Name);
-                Console.WriteLine(m_player[m_count].Hp);
+                Console.WriteLine($"플레이어 이름 : {m_player[m_count].Name}");
+                Console.WriteLine($"체력 : {m_player[m_count].Hp}");
                 Console.WriteLine("생존 여부 : O\n");
                 m_player[m_count].ShowInven();
+            }
+        }
+
+        public int ReadInt(string msg)
+        {
+            while(true)
+            {
+                Console.Write(msg);
+
+                if(int.TryParse(Console.ReadLine(), out int value) && value > 0)
+                    return value;
+
+                Console.WriteLine("\n잘못된 입력입니다.");
+                Console.ReadKey(true);
+                Console.Clear();
             }
         }
     }

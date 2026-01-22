@@ -90,6 +90,8 @@ namespace Practice_4
             {
                 Console.WriteLine($"{i + 1}. {inventories[i].GetItemInfo()}");
             }
+
+            Console.WriteLine();
         }
 
         public void AddItem(Item item)
